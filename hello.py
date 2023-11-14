@@ -1,3 +1,1 @@
-print('hellomm')
-
-print ('python')
+print('hello')
